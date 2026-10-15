@@ -53,8 +53,8 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Roshan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan12170&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Roshan's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan12170&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
